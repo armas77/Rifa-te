@@ -1,0 +1,7 @@
+C:\non-work\Rifa-te\Rifa-te.Web\bin\Rifa-te.Web.dll
+C:\non-work\Rifa-te\Rifa-te.Web\bin\Rifa-te.Web.pdb
+C:\non-work\Rifa-te\Rifa-te.Web\bin\EntityFramework.dll
+C:\non-work\Rifa-te\Rifa-te.Web\bin\EntityFramework.xml
+C:\non-work\Rifa-te\Rifa-te.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\non-work\Rifa-te\Rifa-te.Web\obj\Debug\Rifa-te.Web.dll
+C:\non-work\Rifa-te\Rifa-te.Web\obj\Debug\Rifa-te.Web.pdb
